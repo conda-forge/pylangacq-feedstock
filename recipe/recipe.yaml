@@ -21,7 +21,7 @@ requirements:
     - setuptools
   run:
     - python >=${{ python_min }}
-    - rustling >=0.7.0
+    - rustling >=0.8.0
 
 tests:
   - python:
